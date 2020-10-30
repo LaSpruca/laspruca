@@ -1,6 +1,5 @@
 # LaSpruca
-<iframe src="https://github-readme-stats.vercel.app/api?username=laspruca&show_icons=true" title="GitHub Stats" style="float: right;"></iframe>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laspruca&show_icons=true)
 
 A person, I think.
 
@@ -22,4 +21,4 @@ Languages:
 - JavaScipt
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laspruca&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laspruca&langs_count=10&layout=compact)
