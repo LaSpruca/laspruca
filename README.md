@@ -1,5 +1,5 @@
 # LaSpruca
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laspruca&show_icons=true)
+<iframe src="https://github-readme-stats.vercel.app/api?username=laspruca&show_icons=true" title="GitHub Stats" style="float: right;"></iframe>
 
 
 A person, I think.
