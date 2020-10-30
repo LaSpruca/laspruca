@@ -5,14 +5,14 @@ A person, I think.
 
 # About me
 Year 11 Student Whangarei Boys' High School.
-Currently studing:
+## Currently studing:
 - Maths
 - Science (Phsy, Chem, Bio)
 - Digital Technology
 - Electronics
 - Echonomics
 - Bad language (english)
-Languages:
+## Languages:
 - Rust
 - Java
 - C++
