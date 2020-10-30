@@ -1,16 +1,21 @@
-### Hi there 👋
+# LaSpruca
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laspruca&show_icons=true)
+A person, I think.
 
-<!--
-**LaSpruca/laspruca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# About me
+Year 11 Student Whangarei Boys' High School.
+Currently studing:
+- Maths
+- Science (Phsy, Chem, Bio)
+- Digital Technology
+- Electronics
+- Echonomics
+- Bad language (english)
+Languages:
+- Rust
+- Java
+- C++
+- TypeScript
+- Python
+- JavaScipt
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laspruca&langs_count=8)
