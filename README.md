@@ -2,6 +2,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laspruca&show_icons=true)
 
 A person, I think.
+[Website](https://laspruca.nz)
 
 # About me
 Year 11 Student Whangarei Boys' High School.
