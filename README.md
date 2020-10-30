@@ -1,5 +1,7 @@
 # LaSpruca
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=laspruca&show_icons=true)
+
+
 A person, I think.
 
 # About me
@@ -18,4 +20,6 @@ Languages:
 - TypeScript
 - Python
 - JavaScipt
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laspruca&langs_count=8)
